@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./views-B3tylFxE.js","./mount-BkeTPVAF.js","../css/mount-DF6siJle.css","./nav-BmMU3E_Y.js"])))=>i.map(i=>d[i]);
+import{t as e,x as t}from"./mount-BkeTPVAF.js";var n=Object.fromEntries(Object.entries(Object.assign({"./index.vue":()=>t(()=>import(`./views-B3tylFxE.js`),__vite__mapDeps([0,1,2,3]),import.meta.url)})).map(([e,t])=>[e.replace(`./`,``).replace(`.vue`,``),t]));e(n);
